@@ -26,6 +26,7 @@
   * [cloudt.sh](#cloudtsh)
   * [pserver.sh](#pserversh)
 * [***服务器相关***](#服务器相关)
+  * [ZBench-CN.sh](#ZBench-CNsh)
   * [bbr.sh](#bbrsh)
   * [status.sh](#statussh)
   * [ban_iptables.sh](#ban_iptablessh)
