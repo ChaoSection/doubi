@@ -295,6 +295,17 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 ## 服务器相关
 
+## ZBench-CN.sh
+
+- 脚本说明: 服务器测速脚本
+- 系统支持: Debian6+ / Ubuntu14+
+
+#### 下载安装:
+``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/ChaoSection/doubi/master/ZBench-CN.sh && chmod +x ZBench-CN.sh && bash ZBench-CN.sh
+```
+
+---
 ## bbr.sh
 
 - 脚本说明: BBR 一键安装管理脚本
