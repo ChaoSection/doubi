@@ -26,6 +26,7 @@
   * [cloudt.sh](#cloudtsh)
   * [pserver.sh](#pserversh)
 * [***服务器相关***](#服务器相关)
+  * [bbr原版/魔改/plus/锐速 四合一](#tcpsh)
   * [ZBench-CN.sh](#ZBench-CNsh)
   * [bbr.sh](#bbrsh)
   * [status.sh](#statussh)
@@ -296,6 +297,17 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 ## 服务器相关
 
+## tcp.sh
+
+- 脚本说明: 服务器测速脚本
+- 系统支持: Debian6+ / Ubuntu14+
+
+#### 下载安装:
+``` bash
+wget -N --no-check-certificate https://raw.githubusercontent.com/ChaoSection/doubi/master/tcp.sh && chmod +x tcp.sh && bash tcp.sh
+```
+
+---
 ## ZBench-CN.sh
 
 - 脚本说明: 服务器测速脚本
