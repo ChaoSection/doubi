@@ -299,8 +299,8 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubiBack
 
 ## tcp.sh
 
-- 脚本说明: 服务器测速脚本
-- 系统支持: Debian6+ / Ubuntu14+
+- 脚本说明: bbr原版/魔改/plus/锐速 四合一
+- 系统支持: Centos 7, Debian 8/9, Ubuntu 16/18
 
 #### 下载安装:
 ``` bash
