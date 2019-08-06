@@ -48,6 +48,13 @@
   * [ssr_ip_check.sh](#ssr_ip_checksh)
 
 ---
+## 安装命令
+安装wget
+``` bash
+yum install -y wget
+```
+---
+
 
 ## 代理相关
 
